@@ -1,0 +1,17 @@
+{
+    "name": "overpass-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Delve Withrington"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/overpass-bower.git"
+    },
+    "description": "Overpass font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
